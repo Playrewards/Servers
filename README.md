@@ -1,4 +1,5 @@
 # Servers
+```json
 {
   "servername": "Lmcraft",
   "Adresse": [
@@ -12,3 +13,4 @@
   "Mainversion": "1.21",
   "owner": "Luispupuis"
 }
+```
